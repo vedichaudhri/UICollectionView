@@ -15,6 +15,7 @@
 		479702291F16A97600EABF33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 479702271F16A97600EABF33 /* LaunchScreen.storyboard */; };
 		479702341F16A97600EABF33 /* UICollectionViewTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479702331F16A97600EABF33 /* UICollectionViewTutorialTests.swift */; };
 		4797023F1F16A97700EABF33 /* UICollectionViewTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4797023E1F16A97700EABF33 /* UICollectionViewTutorialUITests.swift */; };
+		4797024F1F16B2B700EABF33 /* RandomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4797024E1F16B2B700EABF33 /* RandomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4797023A1F16A97700EABF33 /* UICollectionViewTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UICollectionViewTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4797023E1F16A97700EABF33 /* UICollectionViewTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UICollectionViewTutorialUITests.swift; sourceTree = "<group>"; };
 		479702401F16A97700EABF33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4797024E1F16B2B700EABF33 /* RandomCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RandomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				4797021B1F16A97600EABF33 /* AppDelegate.swift */,
 				4797021D1F16A97600EABF33 /* ViewController.swift */,
+				4797024E1F16B2B700EABF33 /* RandomCollectionViewCell.swift */,
 				4797021F1F16A97600EABF33 /* Main.storyboard */,
 				479702251F16A97600EABF33 /* Assets.xcassets */,
 				479702271F16A97600EABF33 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				4797021E1F16A97600EABF33 /* ViewController.swift in Sources */,
 				4797021C1F16A97600EABF33 /* AppDelegate.swift in Sources */,
 				479702241F16A97600EABF33 /* UICollectionViewTutorial.xcdatamodeld in Sources */,
+				4797024F1F16B2B700EABF33 /* RandomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
